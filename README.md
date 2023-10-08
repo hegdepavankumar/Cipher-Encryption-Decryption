@@ -17,10 +17,11 @@ To use the Caesar cipher encryption/decryption tool, follow these steps:
 
 ## Examples ##
 Encryption
-If you want to encrypt the message "HELLO" with a shift of 3, the resulting ciphertext will be "KHOOR".
+If you want to encrypt the message "PAVANKUMAR" with a shift of 3, the resulting ciphertext will be "SDYDQNXPDU".
+
 
 ## Decryption ##
-To decrypt the ciphertext "KHOOR" with a shift of 3, the original plaintext "HELLO" will be recovered.
+To decrypt the ciphertext "SDYDQNXPDU" with a shift of 3, the original plaintext "PAVANKUMAR" will be recovered.
 
 ## Files ##
 The project consists of the following files:
@@ -37,3 +38,42 @@ This project is licensed under the MIT License. Feel free to modify and use the 
 
 ## Acknowledgments ##
 This project was inspired by the concept of the Caesar cipher and was created for educational purposes.
+
+
+<br>
+
+## Instructions
+1).Fork this repository <br>
+2).Clone the forked repository  <br>
+3).Add your contributions (code or documentation)  <br>
+4).Commit and push  <br>
+5).Wait for pull request to be merged  <br>
+
+
+<br>
+
+## Contributing
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+## Creator [🔝]
+
+(https://github.com/hegdepavankumar). This Project is Created by :-
+
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
+
+
+<br>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<br>
+
+
+
