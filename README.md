@@ -76,5 +76,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 <br>
 
 
-    
+  <div align="center">
+<p>Have a good day!</p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+</div>  
 
