@@ -41,14 +41,14 @@ The project consists of the following files:
 ## Compatibility ##
 This Caesar cipher encryption/decryption tool should work on most modern web browsers that support JavaScript. No additional libraries or frameworks are required.
 
+## Testing ##
+To run the module's test suite, cd into its directory and run npm test. You may first need to run npm install to install the required development dependencies. (These dependencies are not required in a production environment, and facilitate only unit testing.)
+
 ## License ##
 This project is licensed under the MIT License. Feel free to modify and use the code as per your needs.
 
 ## Acknowledgments ##
 This project was inspired by the concept of the Caesar cipher and was created for educational purposes.
-
-
-<br>
 
 ## Instructions
 1).Fork this repository <br>
@@ -56,9 +56,6 @@ This project was inspired by the concept of the Caesar cipher and was created fo
 3).Add your contributions (code or documentation)  <br>
 4).Commit and push  <br>
 5).Wait for pull request to be merged  <br>
-
-
-<br>
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
