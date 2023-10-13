@@ -1,4 +1,12 @@
 # Caesar-Cipher
+<hr>
+
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/Cipher-Encryption-Decryption?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Cipher-Encryption-Decryption?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Cipher-Encryption-Decryption?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Cipher-Encryption-Decryption.svg?cache=remove)
+
+
 Caesar Cipher Encryption/Decryption
 This project is a simple implementation of the Caesar cipher encryption and decryption algorithm using JavaScript, HTML, and CSS. The Caesar cipher is a substitution cipher that replaces each letter in the plaintext with a letter a certain number of positions down the alphabet.
 
