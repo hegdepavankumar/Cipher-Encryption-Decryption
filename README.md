@@ -1,9 +1,9 @@
 # Caesar-Cipher
 <hr>
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/Cipher-Encryption-Decryption?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Cipher-Encryption-Decryption?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Cipher-Encryption-Decryption?style=flat)
+![GitHub](https://img.shields.io/github/license/imhegde/Cipher-Encryption-Decryption?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/imhegde/Cipher-Encryption-Decryption?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/Cipher-Encryption-Decryption?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Cipher-Encryption-Decryption.svg?cache=remove)
 
 
@@ -17,8 +17,8 @@ To use the Caesar cipher encryption/decryption tool, follow these steps:
 3. Select the desired operation from the "Encrypt" or "Decrypt" radio button.
 5. Enter the desired shift value, which determines how many positions each letter will be shifted.
 6. Enter the desired modulo value, which determines the length of the alphabet.
-7. Select the letter case you want maintaincase, lowercase, and uppercase.
-8. Select the foreign key you want to ignore or remove, if you selected to remove it will remove symbols.
+7. Select the lettercase you want maintaincase, lowercase, and uppercase.
+8. Select the foreign key you want to ignore or remove, if you select to remove it will remove symbols.
 9. Enter the text you want to encrypt or decrypt in the input field provided.
 10. Click the submit button.
 7. The result will be displayed in the output section.
@@ -42,7 +42,7 @@ The project consists of the following files:
 This Caesar cipher encryption/decryption tool should work on most modern web browsers that support JavaScript. No additional libraries or frameworks are required.
 
 ## Testing ##
-To run the module's test suite, cd into its directory and run npm test. You may first need to run npm install to install the required development dependencies. (These dependencies are not required in a production environment, and facilitate only unit testing.)
+To run the module's test suite, cd into its directory and run the npm test. You may first need to run npm install to install the required development dependencies. (These dependencies are not required in a production environment, and facilitate only unit testing.)
 
 ## License ##
 This project is licensed under the MIT License. Feel free to modify and use the code as per your needs.
@@ -51,18 +51,18 @@ This project is licensed under the MIT License. Feel free to modify and use the 
 This project was inspired by the concept of the Caesar cipher and was created for educational purposes.
 
 ## Instructions
-1).Fork this repository <br>
-2).Clone the forked repository  <br>
-3).Add your contributions (code or documentation)  <br>
-4).Commit and push  <br>
-5).Wait for pull request to be merged  <br>
+1). Fork this repository <br>
+2). Clone the forked repository  <br>
+3). Add your contributions (code or documentation)  <br>
+4). Commit and push  <br>
+5). Wait for the pull request to be merged  <br>
 
 ## Contributing
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the Project
 2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+3. Commit your changes (git commit -m 'Add some AmazingFeature')
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
@@ -71,9 +71,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Creator [🔝]
 
-(https://github.com/hegdepavankumar). This Project is Created by :-
+(https://github.com/imhegde). This Project is Created by :-
 
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
+| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
 
 
 <br>
