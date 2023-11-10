@@ -1,9 +1,9 @@
 # Caesar-Cipher
 <hr>
 
-![GitHub](https://img.shields.io/github/license/imhegde/Cipher-Encryption-Decryption?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/imhegde/Cipher-Encryption-Decryption?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/Cipher-Encryption-Decryption?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/Cipher-Encryption-Decryption?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Cipher-Encryption-Decryption?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Cipher-Encryption-Decryption?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Cipher-Encryption-Decryption.svg?cache=remove)
 
 
@@ -71,9 +71,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Creator [🔝]
 
-(https://github.com/imhegde). This Project is Created by :-
+(https://github.com/hegdepavankumar). This Project is Created by:-
 
-| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 
 <br>
